@@ -4,10 +4,10 @@
 
 - Tanzu Application Service (TAS)
 - Container Services Manager (KSM) tile installed (version 0.8.43)
-- Container Registry
 - S3-compatible bucket
 - Kubernetes conformant cluster
 - kubectl
+- Container Registry (Optional)
 
 ### Optional
 
