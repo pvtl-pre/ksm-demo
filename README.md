@@ -7,13 +7,13 @@
 - S3-compatible bucket
 - Kubernetes conformant cluster
 - kubectl
-- Container Registry (Optional)
 
 ### Optional
 
 - [JupyterLab](https://jupyter.org/install.html)
 - [Z shell kernel for Jupyter](https://github.com/danylo-dubinin/zsh-jupyter-kernel)
 - [direnv](https://direnv.net)
+- Container Registry
 
 ## [Runbook](runbook.ipynb)
 
