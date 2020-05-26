@@ -1,0 +1,9 @@
+export ROOT_DOMAIN=
+export TAS_USERNAME=
+export TAS_PASSWORD=
+export KSM_TARGET=
+export KSM_USER=
+export KSM_PASSWORD=
+export KSM_INSECURE=
+export KSM_ORG=
+export KSM_SPACE=
