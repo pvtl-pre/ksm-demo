@@ -19,4 +19,4 @@
 
 *Note: The ksm cli is the macOS version* 
 
-*Note: Convert .envrc.template to .envrc to use with direnv or set the enviroment variables up yourself prior to running the runbook
+*Note: Convert .envrc.template to .envrc to use with direnv or set the enviroment variables up yourself prior to running the runbook*
